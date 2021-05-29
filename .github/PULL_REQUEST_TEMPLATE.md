@@ -8,7 +8,7 @@
 
 # Related Issues
 
-Fixes # .
+Fixes #
 
 ---
 
